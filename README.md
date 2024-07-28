@@ -35,7 +35,7 @@ These points provide a detailed map of the face's geometry, useful for numerous 
 ***
 
 <div align="center">
-    <a><img width="600" src="images/diagram.png" alt="soft"></a>
+    <a><img width="600" src="images/diagram.jpg" alt="soft"></a>
 </div>
 
 ***

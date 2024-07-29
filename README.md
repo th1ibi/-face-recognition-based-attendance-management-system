@@ -212,12 +212,14 @@ This creates an instance of the `FaceRecognition` class and runs the recognition
 
 ### input :
 <div align="center">
-    <a><img width="600" src="images/landmarks.jpg" alt="soft"></a>
+    <a><img width="600" src="images/input.jpg" alt="soft"></a>
 </div>
+
 ### output :
 <div align="center">
     <a><img width="600" src="images/output.jpg" alt="soft"></a>
 </div>
+
 ### attendance :
 <div align="center">
     <a><img width="600" src="images/attendance.jpg" alt="soft"></a>

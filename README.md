@@ -209,22 +209,3 @@ This creates an instance of the `FaceRecognition` class and runs the recognition
 
 ***
 ***
-
-### input :
-
-<video width="720" height="1280" controls>
-  <source src="videos/input.mp4" type="video/mp4">
-</video>
-
-
-### output :
-
-<video width="720" height="1280" controls>
-  <source src="videos/output.mp4" type="video/mp4">
-</video>
-
-### attendance.csv :
-
-<div align="center">
-    <a><img width="600" src="images/attendance.jpg" alt="soft"></a>
-</div>
